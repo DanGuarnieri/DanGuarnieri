@@ -59,7 +59,7 @@ Atualmente, curso **Engenharia da Computação na FMU** e estou em constante apr
 - 🗃️ **Banco de Dados / ETL** — SQL, Knime, Teradata  
 - 📊 **Visualização de Dados** — Power BI  
 - 📁 **Manipulação de Planilhas e PDFs**  
-- 📦 **Criação de ferramentas com interfaces visuais (Streamlit)**  
+- 📦 **Criação de ferramentas com interfaces visuais (Streamlit, Tkinter)**  
 
 ---
 
@@ -67,14 +67,15 @@ Atualmente, curso **Engenharia da Computação na FMU** e estou em constante apr
 
 ### 🔄 Automações com Python
 - **Atualização de dados tributários em sistemas web** via Selenium e Pandas  
-- **Validação automática de chamados** com base em planilhas  
+- **Validação automática de chamados da área** com base em planilhas
+
 
 ### 🧰 Ferramentas Administrativas
 - 🧾 Divisor de planilhas grandes por número de linhas para redistribuição de tarefas  
 - 🗂️ Consolidador de planilhas quinzenais para relatórios  
 - 📄 Quebrador de PDFs por página ou conjunto de páginas  
 - 📤 Gerador de relatórios PDF com **envio automático por e-mail**
-- 📸 Download massivo de arquivos de imagens
+- 📸 Download massivo de arquivos de imagens com separação por categoria e renomeamento
 
 ---
 
