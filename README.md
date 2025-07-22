@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Danilo Guarnieri</h1>
 
 <p align="center">
-  <b>Analista de Dados | Desenvolvedor Python</b><br>
+  <b>Analista de Dados | Desenvolvedor Python | Engenharia de Dados</b><br>
   Estudante de Engenharia da Computação | Automação de Processos | Analista de Planejamento
 </p>
 
