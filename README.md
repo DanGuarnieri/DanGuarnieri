@@ -23,7 +23,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou um profissional em transição para a área de tecnologia, com experiência consolidada em grandes empresas e trajetória de crescimento no Grupo Pão de Açúcar (GPA). Tenho facilidade com lógica, raciocínio analítico e foco em eficiência operacional.
+Sou um profissional apaixonado pela área de tecnologia, com experiência consolidada em grandes empresas e trajetória de crescimento no Grupo Pão de Açúcar (GPA). Tenho facilidade com lógica, raciocínio analítico e foco em eficiência operacional.
 
 Nos últimos anos, atuei com:
 - 📊 **Análise de Dados**
@@ -31,7 +31,7 @@ Nos últimos anos, atuei com:
 - 🧩 **Desenvolvimento de Ferramentas Internas**
 - 🛠️ **Projetos de Melhoria Contínua e Digitalização**
 
-Atualmente, curso **Engenharia da Computação na FMU** e estou em constante aprendizado com foco em Python e tecnologias para automação e análise.
+Atualmente, graduando **Engenharia da Computação na FMU** e estou em constante aprendizado com foco em Python e tecnologias para automação e análise.
 
 ---
 
