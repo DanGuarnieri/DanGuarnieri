@@ -59,7 +59,9 @@ Atualmente, graduando **Engenharia da Computação na FMU** e estou em constante
 - 🗃️ **Banco de Dados / ETL** — SQL, Knime, Teradata  
 - 📊 **Visualização de Dados** — Power BI  
 - 📁 **Manipulação de Planilhas e PDFs**  
-- 📦 **Criação de ferramentas com interfaces visuais (Streamlit, Tkinter)**  
+- 📦 **Criação de ferramentas com interfaces visuais (Streamlit, Tkinter)**
+- 📊 **Metodoligias Ágeis (Kanban e Scrum)**
+- 📊 **Plataformas de fluxos (Pipefy, Service Now)**
 
 ---
 
@@ -68,15 +70,19 @@ Atualmente, graduando **Engenharia da Computação na FMU** e estou em constante
 ### 🔄 Automações com Python
 - **Atualização de dados tributários em sistemas web** via Selenium e Pandas  
 - **Validação automática de chamados da área** com base em planilhas
-
+- **Automações para Mainframe** reduzindo esforço operacional
 
 ### 🧰 Ferramentas Administrativas
 - 🧾 Divisor de planilhas grandes por número de linhas para redistribuição de tarefas  
-- 🗂️ Consolidador de planilhas quinzenais para relatórios  
-- 📄 Quebrador de PDFs por página ou conjunto de páginas  
+- 🗂️ Consolidador de planilhas em grande escala para relatórios  
+- 📄 Divisor de PDFs por página ou conjunto de páginas  
 - 📤 Gerador de relatórios PDF com **envio automático por e-mail**
 - 📸 Download massivo de arquivos de imagens com separação por categoria e renomeamento
+- 📄 Painel de acompanhamento de projetos automatizando análises a partir de novos arquivos
+- 📄 Painel de consulta em arquivos consolidados com Streamlit
+- 📊 Desenvolvimento de **Macros** para padronização de arquivos e execuções sistêmicas
 
+  
 ---
 
 ## 📫 Contato
