@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> Interesses: Analista de Dados | Desenvolvedor Python | Engenharia de Dados</b><br>
-  Estudante de Engenharia da Computação | Automação de Processos | Analista de Planejamento
+  Engenheiro da Computação | Automação de Processos | Analista de Planejamento Sênior - GPA
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Nos últimos anos, atuei com:
 - 🧩 **Desenvolvimento de Ferramentas Internas**
 - 🛠️ **Projetos de Melhoria Contínua e Digitalização**
 
-Atualmente, graduando **Engenharia da Computação na FMU** e estou em constante aprendizado com foco em Python e tecnologias para automação e análise.
+Recentemente me tornei **Engenheiro da Computação na FMU** e estou em constante aprendizado com foco em Python e tecnologias para automação e análise.
 
 ---
 
@@ -67,13 +67,14 @@ Atualmente, graduando **Engenharia da Computação na FMU** e estou em constante
 
 ## 📌 Projetos em Destaque
 
-### 🔄 Automações com Python
+### 🔄 Automações com Python | +35 Automações de Processos
 - **Atualização de dados tributários em sistemas web** via Selenium e Pandas  
 - **Validação automática de chamados da área** com base em planilhas
-- **Automações para Mainframe** reduzindo esforço operacional
+- **Automações para Mainframe** reduzindo esforço operacional e possibilitando execuções massivas online
+- **Pipeline de ETL + Scripts .bat** para atualização de Dashs 
 
 ### 🧰 Ferramentas Administrativas
-- 🧾 Divisor de planilhas grandes por número de linhas para redistribuição de tarefas  
+- 🧾 Divisor de planilhas grandes por número de linhas para distribuição de tarefas  
 - 🗂️ Consolidador de planilhas em grande escala para relatórios  
 - 📄 Divisor de PDFs por página ou conjunto de páginas  
 - 📤 Gerador de relatórios PDF com **envio automático por e-mail**
